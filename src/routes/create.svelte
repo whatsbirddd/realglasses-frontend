@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Real Glasses</title>
+</svelte:head>
+
 <p>그룹 관계를 선택하세요.</p>
 <form action="/group" method="post">
   <input type="radio" id="family" name="relation" value="family" />

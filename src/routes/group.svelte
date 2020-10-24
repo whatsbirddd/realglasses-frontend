@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Real Glasses</title>
+</svelte:head>
+
 <main>
   <section>
     <canvas></canvas>

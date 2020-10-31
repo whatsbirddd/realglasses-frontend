@@ -62,7 +62,6 @@ export default {
 			!dev && terser({
 				module: true
 			}),
-			postcss(),
 		],
 
 		preserveEntrySignatures: false,
